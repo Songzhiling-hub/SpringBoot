@@ -1,0 +1,2 @@
+＃SpringBoot
+springboot+mybatis+druid实现符合rest风格的对student表的crud接口
